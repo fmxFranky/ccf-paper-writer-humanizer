@@ -1,0 +1,6 @@
+interface:
+  display_name: "CCF Paper Writer + Humanizer"
+  short_description: "Evidence-faithful academic and MARL paper writing"
+  default_prompt: "Use $ccf-paper-writer-humanizer-humanizer to draft or revise the requested paper text, humanize it first, and preserve evidence, citations, numbers, uncertainty, and source format."
+policy:
+  allow_implicit_invocation: true
